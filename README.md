@@ -138,10 +138,10 @@ The analysis includes:
 
 ## 👤 Author
 
-**[Your Name]**
+**[Minh Hà]**
 
-- LinkedIn: [Your LinkedIn]
-- GitHub: [Your GitHub]
+- LinkedIn: [(https://www.linkedin.com/in/minh-h%C3%A0-74543025b/)]
+- GitHub: [(https://github.com/minghaa)]
 
 ---
 
